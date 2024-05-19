@@ -118,7 +118,7 @@ elif (command == "2"):
 
 else:
     text = input(
-        "Ingrese el texto del que quiere contar las palabras (sin puntos ni comas): ")
+        "Ingrese el texto del que quiere contar las palabras: ")
 
 word_count, numbers, text_type, similaritie_values = count_words_in_text(text)
 

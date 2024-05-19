@@ -1,0 +1,47 @@
+Texto original:
+La ciencia es el motor que impulsa el avance de la humanidad hacia 
+    un futuro lleno de posibilidades A través de la investigación y el desarrollo tecnológico hemos 
+    logrado importantes avances que han transformado nuestro mundo Desde la conquista del espacio hasta
+    el estudio del impacto humano en el medio ambiente la ciencia nos proporciona las soluciones necesarias para enfrentar
+    los retos del siglo XXI Con una visión centrada en la innovación y el progreso la ciencia nos guía hacia un futuro donde 
+    la tecnología y el conocimiento son herramientas clave para mejorar la calidad de vida de la sociedad 
+    
+
+El texto es de: ciencia
+
+Los valores de similitud del texto son: 
+similitud con ciencia : 0.6900992684174218: 
+similitud con historia : 0.2933097071689976: 
+similitud con ambiente : 0.48997894350611126: 
+
+Cantidad de palabras:
+ciencia: 3
+futuro: 2
+investigación: 1
+desarrollo: 1
+avances: 1
+tecnología: 1
+mundo: 1
+sociedad: 1
+humanidad: 1
+impacto: 1
+ambiente: 1
+visión: 1
+conquista: 1
+datos: 0
+importante: 0
+historia: 0
+cambio: 0
+descubrimiento: 0
+reto: 0
+solución: 0
+necesidad: 0
+antigüedad: 0
+civilización: 0
+revolución: 0
+imperio: 0
+renacimiento: 0
+edad media: 0
+colonialismo: 0
+independencia: 0
+evolución: 0

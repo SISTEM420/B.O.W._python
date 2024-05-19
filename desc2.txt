@@ -1,0 +1,47 @@
+Texto original:
+En la sociedad actual el cambio es una constante que impulsa la evolución de nuestras 
+    comunidades La independencia y la igualdad son valores importantes que han guiado nuestra 
+    historia marcando el camino hacia una sociedad más justa y equitativa Sin embargo aún enfrentamos 
+    retos significativos como la necesidad de proteger nuestro ambiente y promover el desarrollo sostenible 
+    Con una visión orientada hacia el futuro podemos encontrar soluciones innovadoras que nos permitan 
+    construir un mundo mejor para las generaciones venideras
+    
+
+El texto es de: historia
+
+Los valores de similitud del texto son: 
+similitud con ciencia : 0.451793184616907: 
+similitud con historia : 0.7200194587329316: 
+similitud con ambiente : 0.5832118435198044: 
+
+Cantidad de palabras:
+sociedad: 2
+desarrollo: 1
+futuro: 1
+historia: 1
+mundo: 1
+cambio: 1
+ambiente: 1
+necesidad: 1
+visión: 1
+independencia: 1
+evolución: 1
+investigación: 0
+datos: 0
+importante: 0
+avances: 0
+tecnología: 0
+humanidad: 0
+descubrimiento: 0
+impacto: 0
+ciencia: 0
+reto: 0
+solución: 0
+antigüedad: 0
+civilización: 0
+revolución: 0
+imperio: 0
+conquista: 0
+renacimiento: 0
+edad media: 0
+colonialismo: 0

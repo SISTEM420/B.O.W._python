@@ -1,0 +1,48 @@
+Texto original:
+En la antigüedad la humanidad ha atravesado diferentes etapas de evolución y desarrollo 
+    La historia es el registro de esos cambios marcados por descubrimientos importantes y revoluciones 
+    que han tenido un impacto duradero en la sociedad y el mundo Desde el Renacimiento 
+    hasta la Edad Media cada época ha dejado su huella en la civilización reflejando la 
+    necesidad constante de adaptación y cambio La investigación histórica nos permite 
+    comprender nuestro pasado y vislumbrar el futuro donde la visión de una sociedad más 
+    justa y equitativa sigue siendo un reto
+    
+
+El texto es de: historia
+
+Los valores de similitud del texto son: 
+similitud con ciencia : 0.5429256923476341: 
+similitud con historia : 0.7828295173425213: 
+similitud con ambiente : 0.6007631213751987: 
+
+Cantidad de palabras:
+sociedad: 2
+investigación: 1
+desarrollo: 1
+futuro: 1
+historia: 1
+mundo: 1
+cambio: 1
+humanidad: 1
+impacto: 1
+reto: 1
+necesidad: 1
+visión: 1
+antigüedad: 1
+civilización: 1
+renacimiento: 1
+evolución: 1
+datos: 0
+importante: 0
+avances: 0
+tecnología: 0
+descubrimiento: 0
+ambiente: 0
+ciencia: 0
+solución: 0
+revolución: 0
+imperio: 0
+conquista: 0
+edad media: 0
+colonialismo: 0
+independencia: 0
